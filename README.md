@@ -4,14 +4,20 @@
 
 Features:
 
-🌍 Interactive UI: Manually set the Earth, Target Planet, and Asteroids.
-🪐 Dynamic Pathfinding: Real-time visualization of the A* pathfinding algorithm.
-🌌 Customizable Grid Size: Flexible grid configurations to increase or decrease complexity.
+  🌍 Interactive UI: Manually set the Earth, Target Planet, and Asteroids.
+
+  🪐 Dynamic Pathfinding: Real-time visualization of the A* pathfinding algorithm.
+
+  🌌 Customizable Grid Size: Flexible grid configurations to increase or decrease complexity.
 
 How to Use:
 
-Run space_pathfinder.py.
-Left-click to set the Earth (start point), Target Planet (end point), and place Asteroids.
-Press SPACE to initiate the pathfinding algorithm.
-Watch as the spaceship finds its way!
-Press 'C' to reset the grid and start anew.
+  Run space_pathfinder.py.
+
+  Left-click to set the Earth (start point), Target Planet (end point), and place Asteroids.
+
+  Press SPACE to initiate the pathfinding algorithm.
+
+  Watch as the spaceship finds its way!
+
+  Press 'C' to reset the grid and start anew.
